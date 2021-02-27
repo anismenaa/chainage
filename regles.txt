@@ -1,0 +1,9 @@
+Regle(1): SI b et  d et e, ALORS f
+Regle(2): SI g et d, ALORS a
+Regle(3): SI c et f, ALORS a
+Regle(4): SI b, ALORS x
+Regle(5): SI d, ALORS e
+Regle(6): SI x et a, ALORS h
+Regle(7): SI c, ALORS d
+Regle(8): SI x et c, ALORS a
+Regle(9): SI x et b, ALORS d

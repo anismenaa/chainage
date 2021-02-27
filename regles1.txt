@@ -1,0 +1,5 @@
+regle(1): SI e et b, ALORS c
+regle(2): SI f et d, ALORS a
+regle(3): SI d et e, ALORS b
+regle(4): SI b et d, ALORS f
+regle(5): SI e et f, ALORS d
